@@ -4,3 +4,5 @@ We will build a simplified clone of IMDB Top 250 Movies using metadata collected
       Decide on the metric or score to rate movies on.
       Calculate the score for every movie.
       Sort the movies based on the score and output the top results.
+      
+then we built a system that recommends movies that are similar to a particular movie. More specifically, we computed pairwise similarity scores for all movies based on their plot descriptions and recommend movies based on that similarity score
